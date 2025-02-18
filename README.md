@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions by Khaun02
+# 🧠 LeetCode Solutions by Shaun Khang
 
 Welcome to my **LeetCode Solutions** repository! 🚀 This repo is where I document my problem-solving journey on LeetCode, including my thought process, code implementations, and improvements over time.
 
@@ -21,6 +21,7 @@ Each problem solution is stored in the following format:
 - **`hard/`** → Solutions for hard-level problems  
 
 Each file is named using the **LeetCode problem number** and the problem name.
+Example: (leetcode number)_(leetcode problem name)_(BruteForce, Optimized, etc)
 
 ## 🛠️ How I Approach Problems
 1. **Understand the problem statement** – Identify constraints and expected output.
@@ -33,7 +34,9 @@ Each file is named using the **LeetCode problem number** and the problem name.
 ## 🔥 Recent Progress
 Check out my **commit history** to see my learning process and improvements over time. Each commit follows a structured format like:
 
-feat: implement semi-working containsDuplicate function fix: resolve index out of bounds in containsDuplicate feat: finalize optimized containsDuplicate implementation
+feat: implement semi-working containsDuplicate function 
+fix: resolve index out of bounds in containsDuplicate 
+feat: finalize optimized containsDuplicate implementation
 
 ## 📌 Future Plans
 - Solve problems across different categories (Arrays, Strings, Graphs, DP, etc.)
