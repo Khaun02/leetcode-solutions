@@ -21,6 +21,7 @@ Each problem solution is stored in the following format:
 - **`hard/`** → Solutions for hard-level problems  
 
 Each file is named using the **LeetCode problem number** and the problem name.
+
 Example: (leetcode number)_(leetcode problem name)_(BruteForce, Optimized, etc)
 
 ## 🛠️ How I Approach Problems
@@ -35,7 +36,9 @@ Example: (leetcode number)_(leetcode problem name)_(BruteForce, Optimized, etc)
 Check out my **commit history** to see my learning process and improvements over time. Each commit follows a structured format like:
 
 feat: implement semi-working containsDuplicate function 
+
 fix: resolve index out of bounds in containsDuplicate 
+
 feat: finalize optimized containsDuplicate implementation
 
 ## 📌 Future Plans
