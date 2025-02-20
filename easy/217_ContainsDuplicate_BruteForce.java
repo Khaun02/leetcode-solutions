@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class containsDuplicate_BruteForce {
 
     public static boolean containsDuplicate(int[] nums) {
         // solution, sort the array, this means its all in order, so if like nums1[] would go to
