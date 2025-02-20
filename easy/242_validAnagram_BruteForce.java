@@ -4,7 +4,7 @@ class validAnagram_BruteForce {
     public static boolean isAnagram(String s, String t) {
         // first thought, since you have both s and t, if i were doing on paper
         // i would just try to match up the letters from s to t in their
-        // respective index, will try to bruteforce thaq
+        // respective index, will try to bruteforce that
         if (s == null || t == null || s.isEmpty() || t.isEmpty()) {
             return false;
         }
