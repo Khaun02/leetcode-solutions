@@ -45,6 +45,13 @@ class x_largestPalindrome_bruteForce {
     // method to check if its a palindrome, if it is then it sets the
     // variable to be it
 
+    /*
+     * 
+     * could not optimize for n = 5 on coderpad
+     * optimization: consider other cases
+     * edge case: consider edge cases?
+     * 
+     */
     public static int largestPalindrome(int n) {
 
         // declaration of variables
@@ -84,7 +91,6 @@ class x_largestPalindrome_bruteForce {
                 }
             }
         }
-
         return biggestPalindrome;
     }
 
