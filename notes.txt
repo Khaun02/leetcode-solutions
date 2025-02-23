@@ -1,0 +1,7 @@
+# PUBLIC for classes
+
+* if a class has "public" in it, then the class name has to match EXACTLY for the filename
+* reason: When you compile a Java file, the compiler expects the filename and public class name to match exactly because:
+            Java treats each .java file as a separate compilation unit.
+            The compiler automatically looks for a file named after the public class.
+            If the filename doesn’t match the public class name, the compiler can’t correctly map the source file to the compiled .class file.
