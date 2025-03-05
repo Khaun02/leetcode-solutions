@@ -32,6 +32,11 @@ class groupAnagram_BruteForce {
      * q1: how do i know how many arraylist to create though...
      * s1: chatgpt told me to check for unique identifier, still confused
      * s1 cont: then gave me hint about keys and pairs, so first time implementing "hashmap"!
+     * 
+     * 03.05.25
+     * Hashmap, store the regular word then sort and reverse, then store as key and value pair, use for loop to sort through.  Since all value will be same can somehow add to array list
+     * For sort don’t need more than 1 char array, just sort it then store in variable then swap it out 
+     * 
      */
     public static List<List<String>> isAnagram(String[] strs) {
         
